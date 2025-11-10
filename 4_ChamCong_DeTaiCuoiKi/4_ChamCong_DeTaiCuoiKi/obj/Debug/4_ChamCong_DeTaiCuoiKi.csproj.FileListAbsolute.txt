@@ -1,0 +1,10 @@
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\obj\Debug\4_ChamCong_DeTaiCuoiKi.csproj.AssemblyReference.cache
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\obj\Debug\_4_ChamCong_DeTaiCuoiKi.Properties.Resources.resources
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\obj\Debug\4_ChamCong_DeTaiCuoiKi.csproj.GenerateResource.cache
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\obj\Debug\4_ChamCong_DeTaiCuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\bin\Debug\4_ChamCong_DeTaiCuoiKi.exe.config
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\bin\Debug\4_ChamCong_DeTaiCuoiKi.exe
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\bin\Debug\4_ChamCong_DeTaiCuoiKi.pdb
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\obj\Debug\4_ChamCong_DeTaiCuoiKi.exe
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\obj\Debug\4_ChamCong_DeTaiCuoiKi.pdb
+C:\Users\Tin\Downloads\4_ChamCong_DeTaiCuoiKi\4_ChamCong_DeTaiCuoiKi\obj\Debug\4_ChamCong_DeTaiCuoiKi.exe.config
